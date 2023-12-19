@@ -8,6 +8,7 @@
       # disvovery
       dnsx
       httpx
+      ipinfo
       naabu
       nmap
       subfinder
