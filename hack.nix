@@ -16,9 +16,17 @@
       # vulns
       nuclei
       metasploit
+      sqlmap
 
       # screenshot flyovers
       gowitness
       google-chrome
+
+      # active directory
+      mitm6
+      coercer
+      responder
+      bloodhound-py
+
     ];
 }
