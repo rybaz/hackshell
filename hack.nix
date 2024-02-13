@@ -9,20 +9,20 @@
       fzf
       git
       jq
-      kubectl
       ripgrep
       tree
       wget
 
-      # net
+      # general
+      kubectl
       mitmproxy
+      nmap
 
       # disvovery
       dnsx
       httpx
       ipinfo
       naabu
-      nmap
       subfinder
 
       # vulns
@@ -32,7 +32,7 @@
 
       # screenshot flyovers
       gowitness
-      google-chrome
+      #google-chrome
 
       # active directory
       mitm6
